@@ -1,1 +1,4 @@
-wearnord.store
+Type: CNAME
+Name: www
+Value: adamyfa0.github.io
+TTL: 3600
